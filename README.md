@@ -1,9 +1,9 @@
 # 💫 About Me:
-# 1.Myself Lokender Singh Shekhawat.<br>
-# 2. Working on Open source projects on Tublian.<br>
-# 3. B-tech student at Amrita Vishwa Vidhyapeetham.<br>
-# 4. Done one Internship at Corizo in Machine Learning.<br>
-# 5. Complete one project on the Cs50 database management system (Harvard )
+1.Myself Lokender Singh Shekhawat.<br>
+2. Working on Open source projects on Tublian.<br>
+3. B-tech student at Amrita Vishwa Vidhyapeetham.<br>
+4. Done one Internship at Corizo in Machine Learning.<br>
+5. Complete one project on the Cs50 database management system (Harvard )
 
 
 ## 🌐 Socials:
